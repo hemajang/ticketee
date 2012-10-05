@@ -1,4 +1,0 @@
-ticketee
-========
-
-rails practice
